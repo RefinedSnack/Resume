@@ -1,5 +1,5 @@
-# [Job Title]
-**[Company Name]** - [Location]  
+# Text Processing Contractor
+**Visible Language** - Remote  
 [Start Date] – [End Date]
 
 **Key Responsibilities:**
